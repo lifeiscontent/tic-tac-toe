@@ -1,2 +1,2 @@
 # tic-tac-toe
- TypeScript TicTacToe game
+ TypeScript Tic Tac Toe game
