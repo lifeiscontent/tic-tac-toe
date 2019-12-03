@@ -17,7 +17,7 @@ export class GameTest {
 
   public TestPlayerTurns(): void {
     this.game.Move(0, 0);
-    this.game.Move(0, 1);
+    this.game.Move(0, 2);
 
     Assert.AreEqual("X", this.game.CellAt(0, 0));
     Assert.AreEqual("O", this.game.CellAt(0, 1));
